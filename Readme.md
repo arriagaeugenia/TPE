@@ -23,13 +23,13 @@ Jupyter Lab: [Guía de instalación](https://jupyterlab.readthedocs.io/en/stable
     
 3.Si no se tiene instalado el virtualenv, instalarlo indicando en la terminal: 'pip install virtualenv'
 
-4.Crear un ambiente para el repositorio desde la terminar: 'python -m venv < nombre del ambiente >
+4.Crear un ambiente para el repositorio desde la terminar: 'python -m venv < nombre del ambiente >'
 
 5.Activar el ambiente desde la terminal:
 
-    a.Para linux / MacOS: 'source < nombre del ambiente >/bin/activate
+    a.Para linux / MacOS: 'source < nombre del ambiente >/bin/activate'
     
-    b.Para Windows: '< nombre del ambiente >\Scripts\activate
+    b.Para Windows: '< nombre del ambiente >\Scripts\activate'
     
 6.Instalar las librerias requeridas para ejecutar la notebook de jupyter desde la terminal: 'pip install -r requirements.txt'
 
